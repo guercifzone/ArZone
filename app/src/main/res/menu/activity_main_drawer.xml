@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_house_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_algorithmes"
+            android:icon="@drawable/algorithms_64"
+            android:title="@string/menu_algorithmes" />
+        <item
+            android:id="@+id/nav_android"
+            android:icon="@drawable/ic_baseline_android_24"
+            android:title="@string/menu_android" />
+        <item
+            android:id="@+id/nav_blogger"
+            android:icon="@drawable/ic_baseline_web_24"
+            android:title="@string/menu_blogger"
+            />
+        <item
+            android:id="@+id/nav_computer"
+            android:icon="@drawable/ic_baseline_computer_24"
+            android:title="@string/menu_computer"
+            />
+        <item
+            android:id="@+id/nav_dotnet"
+            android:icon="@drawable/csharp"
+            android:title="@string/menu_dotnet"
+            />
+        <item
+            android:id="@+id/nav_extention"
+            android:icon="@drawable/extention"
+            android:title="@string/menu_extention"
+            />
+        <item
+                android:id="@+id/nav_gtk"
+                android:icon="@drawable/gtk"
+                android:title="@string/menu_gtk"
+        />
+        <item
+                android:id="@+id/nav_java"
+                android:icon="@drawable/java"
+                android:title="@string/menu_java"
+        />
+        <item
+                android:id="@+id/nav_programin"
+                android:icon="@drawable/programin"
+                android:title="@string/menu_programing"
+        />
+        <item
+            android:id="@+id/nav_ather"
+            android:icon="@drawable/baseline_attractions_24"
+            android:title="@string/Athre"/>
+        <item
+                android:id="@+id/nav_tutariel"
+                android:icon="@drawable/tutariel"
+                android:title="@string/menu_tutariel"
+        />
+    </group>
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251779094690",
+    "project_id": "guercifzone",
+    "storage_bucket": "guercifzone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251779094690:android:b2e5eedebcefeec36b9ffb",
+        "android_client_info": {
+          "package_name": "com.guercif.arzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251779094690-0ugaebou125rcuettajr2nus19ui1e47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2aIggYHPRAN6Vx1kASvmz4FpihpfdDeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251779094690-0ugaebou125rcuettajr2nus19ui1e47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

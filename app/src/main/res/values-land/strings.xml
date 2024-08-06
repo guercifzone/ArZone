@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_algorithmes">الخورزميات</string>
+    <string name="menu_android">الاندرويد</string>
+    <string name="menu_blogger">التدوينات</string>
+    <string name="menu_computer">حاسوب</string>
+    <string name="menu_csharp">C#</string>
+    <string name="menu_extention">الإضافات</string>
+    <string name="menu_gtk">gtk</string>
+    <string name="menu_java">الجافا</string>
+    <string name="menu_programing">البرمجة</string>
+    <string name="menu_tutariel">شروحات</string>
+    <string name="spach_descrition">موقع جرسيف زون من اجل الافضل</string>
+    <string name="nav_header_name">صديق عبد الفتاح</string>
+    <string name="SiteWeb">guercifzone-ar.blogspot.com</string>
+    <string name="Athre">أخرى</string>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.guercif.arzone.ui.Home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_algorithmes"
+        android:name="com.guercif.arzone.ui.Algorithmes.AlgorithmesFragment"
+        android:label="الخورزميات"
+        tools:layout="@layout/fragment_algorithmes" />
+    <fragment
+        android:id="@+id/nav_android"
+        android:name="com.guercif.arzone.ui.Android.Android_Fragment"
+        android:label="الاندرويد"
+        tools:layout="@layout/fragment_android" />
+    <fragment
+        android:id="@+id/nav_blogger"
+        android:name="com.guercif.arzone.ui.Blogger.Blogger_Fragment"
+        android:label="التدوينات"
+        tools:layout="@layout/fragment_blogger"
+        />
+    <fragment
+        android:id="@+id/nav_computer"
+        android:name="com.guercif.arzone.ui.Computer.Computer_Fragment"
+        android:label="الحاسوب"
+        tools:layout="@layout/fragment_computer"/>
+    <fragment
+        android:id="@+id/nav_dotnet"
+        android:name="com.guercif.arzone.ui.Dotnet.DotNetFragment"
+        android:label="الدوت نت"
+        tools:layout="@layout/fragment_dotnet"/>
+    <fragment
+            android:id="@+id/nav_extention"
+            android:name="com.guercif.arzone.ui.Extention.ExtentionFragment"
+            android:label="الاضافات"
+            tools:layout="@layout/fragment_extention"/>
+    <fragment
+            android:id="@+id/nav_gtk"
+            android:name="com.guercif.arzone.ui.Gtk.GtkFragment"
+            android:label="gtk"
+            tools:layout="@layout/fragment_gtk"/>
+    <fragment
+            android:id="@+id/nav_java"
+            android:name="com.guercif.arzone.ui.Java.JavaFragment"
+            android:label="جافا"
+            tools:layout="@layout/fragment_java"/>
+    <fragment
+            android:id="@+id/nav_programin"
+            android:name="com.guercif.arzone.ui.Programing.Programing_Fragment"
+            android:label="البرمجة"
+            tools:layout="@layout/fragment_programing"/>
+    <fragment
+        android:id="@+id/nav_ather"
+        android:name="com.guercif.arzone.ui.Ather.AtherFragment"
+        android:label="أخرى"
+        tools:layout="@layout/fragment_ather"/>
+    <fragment
+            android:id="@+id/nav_tutariel"
+            android:name="com.guercif.arzone.ui.Tutariel.TutarielFragment"
+            android:label="دروس"
+            tools:layout="@layout/fragment_tutariel"/>
+
+</navigation>

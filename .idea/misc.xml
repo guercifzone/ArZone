@@ -1,0 +1,55 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18518518518518517" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/drawable/ca22lp01.xml" value="0.16018518518518518" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/drawable/ic_baseline_android_24.xml" value="0.11574074074074074" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/drawable/ic_baseline_architecture_24.xml" value="0.11944444444444445" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/drawable/ic_baseline_computer_24.xml" value="0.11944444444444445" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.11944444444444445" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/drawable/ic_baseline_house_24.xml" value="0.11944444444444445" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/drawable/ic_baseline_self_improvement_24.xml" value="0.11944444444444445" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/drawable/ic_baseline_web_24.xml" value="0.11944444444444445" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11944444444444445" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/drawable/side_nav_bar.xml" value="0.11944444444444445" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/activity_splash_screen.xml" value="0.21603260869565216" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/android_fragment.xml" value="0.3296875" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/app_bar_main.xml" value="0.1595744680851064" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/blogger_fragment.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/computer_fragment.xml" value="0.23233695652173914" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/contact_fragment.xml" value="0.25" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/content_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/fragment_home.xml" value="0.1595744680851064" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/fragment_slideshow.xml" value="0.1595744680851064" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/menu/activity_main_drawer.xml" value="0.3230769230769231" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/menu/main.xml" value="0.19537037037037036" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18518518518518517" />
+        <entry key="..\:/MyProjectAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.16574074074074074" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/activity_splash_screen.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/android_fragment.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/app_bar_main.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/blogger_fragment.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/computer_fragment.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/contact_fragment.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/content_main.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/fragment_gallery.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/fragment_home.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/fragment_slideshow.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/layout/nav_header_main.xml" value="0.16033434650455927" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/menu/activity_main_drawer.xml" value="0.32461538461538464" />
+        <entry key="..\:/MyProjectAndroid/arzone/app/src/main/res/menu/main.xml" value="0.3074074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
